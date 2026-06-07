@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Imtiaz Ahamed | Social Media Marketing Specialist",
   description: "Professional Social Media Marketing Specialist based in Khulna, Bangladesh.",
   keywords: "social media marketing, Facebook marketing, Instagram marketing, Bangladesh",
+  verification: {
+    google: "<meta name="google-site-verification" content="NFXvazVBjO8r2VoQpEuhur9KOIIHz-4uLrMHzOVNm4M" />",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
