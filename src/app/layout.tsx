@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "Professional Social Media Marketing Specialist based in Khulna, Bangladesh.",
   keywords: "social media marketing, Facebook marketing, Instagram marketing, Bangladesh",
   verification: {
-    google: "<meta name="google-site-verification" content="NFXvazVBjO8r2VoQpEuhur9KOIIHz-4uLrMHzOVNm4M" />",
+    google: "NFXvazVBjO8r2VoQpEuhur9KOIIHz-4uLrMHzOVNm4M",
   },
 };
 
